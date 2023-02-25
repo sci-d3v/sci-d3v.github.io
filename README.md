@@ -19,7 +19,7 @@ sci.d3v@gmail.com
 
 Языки программирования: С/C++, Python, GLSL, SQL, C#, Pascal.
 
-Стек технологий: Linux, OpenGL, OpenMP, MPI, CUDA, OpenCL, Latex, GIT.
+Стек технологий: Linux, OpenGL, OpenMP, MPI, CUDA, OpenCL, Latex, Git.
 
 Дополнительные навыки: Написание научных статей, преподавание.
 
